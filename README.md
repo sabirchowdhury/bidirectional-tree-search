@@ -1,5 +1,5 @@
 # bidirectional-tree-search
-find a path that maximises the cost when traversing a tree
+Task: find a path that maximises the cost when traversing a tree.
 
 Finding a the path that maximises the cost when traversing a tree. The main code is run by calling the function bestSumAnyTreePath(parent, values);
 
